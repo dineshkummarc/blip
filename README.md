@@ -19,7 +19,7 @@ Tested on <strong>PHP 7.3 +</strong> but may work down to 7.x (haven't tested), 
 > Inspiration for this project just came as a need to get a quick blog up on a website without setting up databases, and bloat. You are welcomed to contribute or fix bugs! Thanks
  
 Blog Listing
-![Alt text](/screenshots/screenshot1.PNG?raw=true "Blog Listing")
+![Alt text](screenshot1.PNG?raw=true "Blog Listing")
 
 Blog Post
-![Alt text](/screenshots/screenshot2.PNG?raw=true "Blog Post")
+![Alt text](screenshot2.PNG?raw=true "Blog Post")
